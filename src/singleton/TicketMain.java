@@ -1,5 +1,10 @@
 package singleton;
 
+/**
+ * 練習問題5-1
+ * @author haru
+ *
+ */
 public class TicketMain {
 	public static void main(String[] args) {
 		System.out.println("Start");
