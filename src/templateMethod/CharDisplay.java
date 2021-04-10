@@ -19,7 +19,7 @@ public class CharDisplay extends AbstractDisplay{
 
 	@Override
 	public void close() {
-		System.out.print(">>");
+		System.out.println(">>");
 	}
 
 }
